@@ -36,6 +36,10 @@ Test in ruby
 
     note: Web scraping is downloading information from a web page through spiders, therefore if the URL to which web scraping is going to be done is not specified, it is impossible to do web scraping.
 
+### Note
+
+By definition in maths an even number is an **integer** that is divisible by two. That means that a decimal is neither even nor odd. By principle of parity it is only possible for number **integers**. This is regarding the second point.
+
 ### Clone repo
 
 ```bash
@@ -44,22 +48,51 @@ $ https://github.com/WilliamPerezBeltran/ruby-test.git
 
 # Go to app directory
 $ cd ruby-test
-
-# Install depedencies
-$ bundle install
 ```
 
-## Installation
+## Execute code
+```bash
+# Clone repo
+$ https://github.com/WilliamPerezBeltran/ruby-test.git
+
+# Go to app directory
+$ cd ruby-test
+```
 
 
 
-### Run app
+### Run code
+#### "evenNumbers"
 
 ```bash
-# ---
-$ ---
+# Go into folder
+$ cd evenNumbers/
+
+# Execute code
+$ ruby main.rb
+
+# Type data in terminal 
+$ [1.5,5.2,5.0,6.2,12.3,15.0,25.0,25.4,25.0,3.5,2.6,2.0,8.0] 
+
 ```
 
+### Run code
+#### "powerNumber"
+
+```bash
+# Go into folder
+$ cd powerNumber/
+
+# Execute code
+$ ruby main.rb
+
+# Example
+# Type base number 
+$ 2
+
+# Type exponent number 
+$ 3
+```
 
 ## Creators
 
